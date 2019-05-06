@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/controller/CommonController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/controller/ManageController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/dao/BookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/dao/impl/BookDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/dao/impl/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/domain/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/util/CharacterSetFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/kakanshun/util/JdbcUtil.java" charset="GBK" />
+  </component>
+</project>
